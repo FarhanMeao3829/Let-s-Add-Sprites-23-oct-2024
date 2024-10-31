@@ -94,5 +94,3 @@ while not exit:
     clock.tick(240)
     
 pygame.quit()
-            
-        
